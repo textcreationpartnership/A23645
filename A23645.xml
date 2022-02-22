@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief history of transubstantiation shewing the time when, and the occasion how it first begun, the growth, encrease, and present state of it, the grounds and reasons, absurdities and follies of it : written for satisfaction of those that are, and shall be called to subscribe the declaration in the late act against popish recusants, for quieting the minds of His Majesties good subjects / by R.A., Pastor of the church at Henfield in Sussex.</title>
+            <author>R. A. (Richard Allen)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23645</idno>
+            <idno type="STC">Wing A1042</idno>
+            <idno type="STC">ESTC R22423</idno>
+            <idno type="EEBO-CITATION">12488513</idno>
+            <idno type="OCLC">ocm 12488513</idno>
+            <idno type="VID">62323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 302:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief history of transubstantiation shewing the time when, and the occasion how it first begun, the growth, encrease, and present state of it, the grounds and reasons, absurdities and follies of it : written for satisfaction of those that are, and shall be called to subscribe the declaration in the late act against popish recusants, for quieting the minds of His Majesties good subjects / by R.A., Pastor of the church at Henfield in Sussex.</title>
+                  <author>R. A. (Richard Allen)</author>
+               </titleStmt>
+               <extent>[7], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Cotterel for the author, and are to be sold by Francis Kindon ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: Rich. Allen.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62323:1" rendition="simple:additions"/>
+            <pb facs="tcp:62323:1" rendition="simple:additions"/>
+            <p>Brief Hiſtory OF TRANSUBSTANTIATION.</p>
+            <p>SHEWING The Time when, and the Occaſion how it firſt begun; the Growth, Encreaſe, and preſent ſtate of it; the Grounds and Reaſons, Abſurdities and Follies of it.</p>
+            <p>WRITTEN For ſatisfaction of thoſe that are, and ſhall be called to Subſcribe the DECLARATION in the late ACT AGAINST Popiſh Recuſants, For Quieting the MINDS of HIS MAJESTIES good Subjects.</p>
+            <p>By <hi>R. A.</hi> Paſtor of the Church at <hi>Henfield</hi> in <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Cotterel</hi> for the Author, and are to be ſold by <hi>Francis Kindon</hi> in <hi>Duck-lane,</hi> near the <hi>Crown-Tavern.</hi> 1674.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62323:2"/>
+            <pb facs="tcp:62323:2"/>
+            <head>To the Honourable Sir <hi>John Pelham,</hi> Sir <hi>Nicholas Pelham,</hi> Sir <hi>Cecil Bi<g ref="char:EOLhyphen"/>ſhop,</hi> Sir <hi>John Fagg,</hi> Sir <hi>John Covert,</hi> Sir <hi>John Stapley,</hi> Knights Baronets; <hi>Henry Goring</hi> the Elder, Mr. <hi>Garro<g ref="char:EOLhyphen"/>way Edward Blaker</hi> and <hi>Henry Go<g ref="char:EOLhyphen"/>ring</hi> the younger, Eſquires; with the reſt of the Honourable Members of Parliament ſerving for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Suſſex.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Patriots,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O avoid the Penalties of your late Act, many received the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, that never did before, and peradven<g ref="char:EOLhyphen"/>ture never will again: I judge ſo, becauſe I
+<pb facs="tcp:62323:3"/>
+have heard of ſome murmuring at the Sub<g ref="char:EOLhyphen"/>ſcription therein required. Whereupon I adventured to publiſh this ſhort Account of TRANSUBSTANTIATION, for their better ſatisfaction. We ſee the Nation divided about Matters of Religion; and we know the danger of a Kingdom divided againſt it ſelf, except ſpeedy remedy be ap<g ref="char:EOLhyphen"/>plied. <hi>Toleration</hi> is a pretty <hi>Anodyne,</hi> that may eaſe our Diſtempers for a time, but will never make a perfect Cure. And <hi>Phyſitians</hi> obſerve, <hi>That violent Medicines never did good upon ſtubborn Humours.</hi> For remedy of ſuch Evils as now we are endangered with divers eminent perſons have given their advices.</p>
+            <p>
+               <hi>Firſt,</hi> Some famous Princes, Peers, and Prelates of our own Nation.</p>
+            <p>
+               <hi>Secondly,</hi> A famous Parliament, in a Meſ<g ref="char:EOLhyphen"/>ſage to their King, tell him, <hi>That the onely way to ſuppreſs Hereſie and Schiſm, is to follow the example of the Primitive Church,</hi> &amp;c. <hi>There is</hi> (ſay they) <hi>a Root to be til<g ref="char:EOLhyphen"/>led; and if that be done, we may hope to en<g ref="char:EOLhyphen"/>joy the ſweet fruits of a firm and laſting
+<pb facs="tcp:62323:3"/>
+Peace. But if this be neglected (make what Laws you will) Hereſie and Schiſm will en<g ref="char:EOLhyphen"/>creaſe, and Diviſions grow daily wider and wider.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The famous Council of <hi>Chalce<g ref="char:EOLhyphen"/>don</hi> called by <hi>Martianus</hi> the Emperour a<g ref="char:EOLhyphen"/>gainſt <hi>Eutyches,</hi> hath taught us to remove one main hinderance of peace out of the way.</p>
+            <p>If the great Affairs of the Kingdom will permit, You may do ſomething for the Church of <hi>England,</hi> that will not only ſtop the mouths of <hi>Evil Speakers,</hi> but alſo allure all <hi>Conſcientious Diſſenters</hi> to return home again to their Mother, whom they forſook, before they knew her. The great God, and diſpoſer of all things, ſend his bleſſing upon all Your Conſultations, that they may be to His Glory, the Honour of our Gracious So<g ref="char:EOLhyphen"/>vereign, and the Peace and Welfare of our Countrey.</p>
+            <closer>
+               <signed>
+                  <hi>Your HONO<g ref="char:V">Ʋ</g>RS Humble Servant,</hi> Rich: Allen.</signed>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 1673.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:62323:4"/>
+            <head>THE Declaration.</head>
+            <p>
+               <hi>I A. B.</hi> do Declare, That I do believe that there is not any Tranſubſtantiation in the Sacrament of the Lords Supper, or in the Elements of Bread and Wine at or after the Conſecration thereof, by any perſon whatſoever.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:62323:4"/>
+            <head>A Brief Hiſtory OF TRANSUBSTANTIATION.</head>
+            <div type="preface">
+               <head>PREFACE.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here are and have been many erronious Opinions concerning the Sacrament of the Lords Supper; Three ſpecially at this day trouble the Church, <hi>ſcil. Tran<g ref="char:EOLhyphen"/>ſubſtantiation; Conſubſtantiation;</hi> and <hi>bare Signe or Figure.</hi>
+               </p>
+               <p n="1">
+                  <label>I.</label>
+                  <hi>Bare Signe or Figure</hi> alloweth no more in this Holy Sacrament, but only Bread and Wine; denying all other preſence of Chriſt, but only in figure and ſignification.</p>
+               <p n="2">
+                  <pb n="2" facs="tcp:62323:5"/>
+                  <label>II.</label>
+                  <hi>Conſubſtantiation</hi> holdeth, That the Bread and Wine, and the Body and Blood of Chriſt, are joynt<g ref="char:EOLhyphen"/>ly, and both together preſent: So that we receive in this Holy Sacrament, not only Bread and Wine; but alſo in, with, or under the Bread and Wine, we receive, eat and drink the very Body and Blood of Chriſt really and ſubſtantially.</p>
+               <p n="3">
+                  <label>III.</label>
+                  <hi>Tranſubſtantiation</hi> is the Doctrine of the Church of <hi>Rome,</hi> and teacheth, That in this Holy Sacrament of the Lords Supper, after the words of Conſecra<g ref="char:EOLhyphen"/>tion, and by virtue of the ſame, the Bread and Wine are turned into the very Body and Blood of Chriſt; nothing remaining of thoſe Elements, but only out<g ref="char:EOLhyphen"/>ward accidents to ſerve the ſenſes. The two laſt have been the occaſion of many Superſtitions, the firſt of much profaneſs. All Three rejected by the Church of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="3" facs="tcp:62323:5"/>
+               <head>CHAP. I. The Original and firſt Occaſion of Tranſubſtantiation.</head>
+               <p>
+                  <hi>TRanſubſtantiation</hi> is a barbarous word, never heard of in the Church till above 1000 years after Chriſt. The firſt that imagined a Carnal eat<g ref="char:EOLhyphen"/>ing were the <hi>Capernaites,</hi> who (<hi>John</hi> 6.) miſtook our Saviours words, for a Carnal eating his Fleſh with their teeth. This groſs conceit vaniſhed with the Authors; of whom St. <hi>Auguſtine</hi> ſpeaks nothing, but makes mention of others, who abuſed, ſlighted, or deſpiſed this Holy Sacrament. Whereupon the old Writers and Fathers of the Church (to preſerve the dignity of this Ordinance, and to ſtir up the more Piety and Reverence in the minds of men to ſo holy a Myſtery) uſed many Rhetorical expreſſions and flouriſhes of Exornation, as giving the names of the things ſignified, to the ſigns ſignifying, <hi>&amp;c.</hi> which in after-times gave occaſion to many miſtakes, and came thus to paſs.</p>
+               <p>
+                  <hi>Gallienus</hi> the Emperour, a luxurious Prince, given wholly to pleaſure and carnal delights, through his ſloth and negligence, gave way to the <hi>Goths,</hi> and other barbarous Nations, to invade and break into the Empire; who for many years together made ſuch havock and ſpoyl in <hi>France, Spain, Italy,</hi> and all <hi>Chriſtendom,</hi> that there followed a great decay of Learning, and Learned men. In thoſe dark times,
+<pb n="4" facs="tcp:62323:6"/>
+Profeſſors of Chriſtian Religion, in reading the Fa<g ref="char:EOLhyphen"/>thers, through want of skill to diſcern, miſtook their meanings, and took things as they read them, and commonly one thing for another; their Tropes and Figures, for ſpeeches natural and proper; a change of ſubſtance, for a change of power and operation, which is all the Fathers intended. Thus the ſeeds of <hi>Tranſubſtantiation</hi> were probably ſown, though the blade appeared not in many Ages after.</p>
+               <p>About the year 870, in the Reign of <hi>Charles</hi> the Bald, a certain Knight called <hi>Fredenardus,</hi> moved the queſtion, <hi>Whether the Body of Christ was truly in the Sacrament, or only in Figure?</hi> Whereto di<g ref="char:EOLhyphen"/>vers anſwered diverſly; and ſome more groſs than <hi>Capernaites,</hi> ſaid <hi>there was nothing in the Sacra<g ref="char:EOLhyphen"/>ment, neither ſubſtance nor accident, but only the body and blood of Christ; and whatſoever appeared, was the outſide of his body.</hi> The queſtion was put to <hi>Bertram</hi> a Presbyter well-beloved of the King; whoſe anſwer was, That <hi>Secundum creaturarum ſub<g ref="char:EOLhyphen"/>ſtantiam,</hi> &amp;c. <hi>According to their ſubſtance, the crea<g ref="char:EOLhyphen"/>tures of Bread and Wine remained in the Sacrament after Conſecration.</hi> The Popiſh Writers, to excuſe what they cannot deny, ſay, <hi>That</hi> Bertram <hi>at that time did not exactly know how theſe accidents could ſubſist without their ſubſtance.</hi>
+               </p>
+               <p>It was above 300 years after this, that <hi>Berengari<g ref="char:EOLhyphen"/>us</hi> a Deacon, reading the Fathers, and miſliking ſome expreſſions, as ſavouring too much of the let<g ref="char:EOLhyphen"/>ter, declined as much on the other hand to bare Figure (if <hi>Caranza</hi> abuſe him not:) for others af<g ref="char:EOLhyphen"/>firm,
+<pb n="5" facs="tcp:62323:6"/>
+That he was of a ſounder judgment, holding a Converſion <hi>(ſuo modo)</hi> as we alſo do. Whatever it was, Pope <hi>Leo</hi> IX. condemned his Opinion in a Council at <hi>Vercelles,</hi> 1049. and ſoon after, <hi>ſcil.</hi> 1057, Pope <hi>Nicholas</hi> II. took him in hand, and in the ſecond Council of <hi>Lateran,</hi> made him Recant, and make this Publick Confeſſion, <hi>That the very bo<g ref="char:EOLhyphen"/>dy and blood of Chriſt, was truly and ſenſibly broken and bruiſed with the teeth of the faithful.</hi> And this Confeſſion the <hi>Pope</hi> received and allowed for Catholick. But no <hi>Papist</hi> at this day will undertake the defence of it; and ſome of their own Doctors utterly diſlike it, becauſe then aged People, who have no teeth, cannot eat effectually.</p>
+               <p>As yet we hear nothing of <hi>Tranſubſtantiation;</hi> the word was coyned afterwards: for <hi>Lombard,</hi> who lived a good while after this, ſaith, <hi>L.</hi> 4. <hi>Sent. D.</hi> ii. <hi>If any man enquire what manner of converſion is in the Sacrament, he could not reſolve him.</hi> Howſo<g ref="char:EOLhyphen"/>ever, it was never received as an Article of Faith, nor decreed by that name, till the third Council of <hi>Lateran</hi> held under <hi>Innocent</hi> III. 1215, where <hi>Tit. de Fide Cathol.</hi> it is declared, <hi>That the very body and blood of Christ is truly contained in the Sacra<g ref="char:EOLhyphen"/>ment of the Altar, the Bread being tranſubſtantiate into the Body, and the Wine into the Blood of Christ.</hi> This is the firſt News we hear of <hi>Tranſubſtantia<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>We ſee now the Antiquity of <hi>Tranſubſtantiation.</hi> It is one of the <hi>Tares</hi> that were <hi>ſowed whil'st men ſlept,</hi> and grew up by degrees; but was ſcarce known, never decreed as an Article of Faith; till
+<pb n="6" facs="tcp:62323:7"/>
+above 1200 years after Chriſt; and was never re<g ref="char:EOLhyphen"/>ceived generally to this day. For ſome of their own Writers (one a Cardinal) ſay, <hi>That they receive it chiefly out of reverence to the Church, becauſe ſhe hath ſo decreed;</hi> but otherwiſe in their own judgment rather approve that Opinion, which ſaith, <hi>That the ſubſtance of Bread and Wine remain in the Sacra<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. The full growth and preſent ſtate of Tranſubſtantiation.</head>
+               <p>WE have ſeen now how <hi>Tranſubſtantiation</hi> was firſt ſowed, and how it grew up by de<g ref="char:EOLhyphen"/>grees; but came not to its full growth and height, till the Council of <hi>Trent,</hi> called by Pope <hi>Paul</hi> III. and aſſembled in the City of <hi>Trent, Decemb.</hi> 13. 1545. In this Council, the Doctrine of <hi>Tranſubſtan<g ref="char:EOLhyphen"/>tiation</hi> being called in queſtion, was with ſome ear<g ref="char:EOLhyphen"/>neſtneſs debated between the <hi>Franciſcan</hi> and <hi>Domi<g ref="char:EOLhyphen"/>nican</hi> Fryers. The <hi>Dominicans</hi> affirmed, <hi>That in the Lords Supper, the Bread and Wine are turned in<g ref="char:EOLhyphen"/>to the very Body and Blood of Christ, matter into matter, and form into form; and therefore it was called Tranſubſtantiation.</hi> On the contrary, the <hi>Franciſcans</hi> contended, <hi>That it was called Tranſub<g ref="char:EOLhyphen"/>ſtantiation, not becauſe one ſubſtance was made of the other, as</hi> Dominicans <hi>ſay; but becauſe one ſub<g ref="char:EOLhyphen"/>ſtance
+<pb n="7" facs="tcp:62323:7"/>
+ſucceeded in the place of the other, the Bread vaniſhing, and the Body of Christ coming in place of it.</hi> I purpoſely paſs over the hot diſpute they had about the manner of Being of Chriſt in the Sacra<g ref="char:EOLhyphen"/>ment, and how it differed from the manner of his Being in Heaven; wherein the Learned Fryers were ſo confounded, that they could neither agree themſelves, nor ſatisfie others. The Fathers of the Council being for moſt part Lawyers, underſtood not the ſubtilties of the Divines; and it is a won<g ref="char:EOLhyphen"/>der how they ſhould underſtand, <hi>Locatum ſine loco; Quantum ſine quantitate,</hi> &amp;c. <hi>In a place, poſſeſſing no place: A Body, without quantity: Quantity, in condition of a Body or Subſtance: Subſtance with<g ref="char:EOLhyphen"/>out Accidents: and Accidents, not inſiſting but ſub<g ref="char:EOLhyphen"/>ſiſting of themſelves without a Subject.</hi> And ſuch like monſtrous fancies, enough to puzzle all the Wits in the World, as it hath done their own Doctors to this day, that they neither underſtand it themſelves, nor can explain it to others. Such hard ſhifts men are often put to, that forſake the Truth, to maintain Errour. The Fathers conclude to make an expreſſion ſo univerſal, as may be accom<g ref="char:EOLhyphen"/>modated to the meaning of both Parties. And ſo it is declared, <hi>Con. Trid. S.</hi> 13. <hi>Dec. de Euchar. That af<g ref="char:EOLhyphen"/>ter the words of Conſecration, the whole ſubſtance of the Bread is turned into the ſubſtance of the Body of Christ,</hi> &amp;c. <hi>And that whole Christ, Body and Soul, together with his Godhead, is contained in the Sacra<g ref="char:EOLhyphen"/>ment, and in every part and particle of it.</hi> But this did not pleaſe all the Council neither.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="8" facs="tcp:62323:8"/>
+               <head>CHAP. III. The Grounds and Reaſons for Tranſubſtantiation.</head>
+               <p>THE Grounds and Reaſons for this Opinion, are the Power and Truth of Chriſt. Who being God Almighty, can do whatſoever he will; and will do whatſoever he hath promiſed, becauſe he is Truth it ſelf. But Chriſt hath promiſed to give us his fleſh to eat (<hi>John</hi> 6.) and afterwards in<g ref="char:EOLhyphen"/>ſtituting a Sacrament, did give his Body to his Diſ<g ref="char:EOLhyphen"/>ciples, ſaying, <hi>Take, eat, this is my Body.</hi> Some think it impoſſible, but we <hi>(ſay they)</hi> muſt believe it, for his other Miracles that he did: as (<hi>John</hi> 2.) he turned water into wine; and many other Mira<g ref="char:EOLhyphen"/>cles he did, to witneſs his Almighty Power and God<g ref="char:EOLhyphen"/>head; that they which believed him not for his Word, might believe him for his Works ſake.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="9" facs="tcp:62323:8"/>
+               <head>CHAP. IV. The Grounds and Reaſons Conſidered.</head>
+               <p>IT is very true, That Chriſt can do whatſoever he will, and will do whatſoever he hath promi<g ref="char:EOLhyphen"/>ſed. The queſtion is, not of his Power, nor of his Truth, but of his Will and Promiſe: when and where made he any ſuch promiſe? He promiſed in<g ref="char:EOLhyphen"/>deed (<hi>John</hi> 6.) to give his fleſh for the life of the World; and ſo he did upon the Croſs once for all. He promiſed alſo to give us his fleſh to eat; and ſo he doth to every faithful Receiver in the Sa<g ref="char:EOLhyphen"/>crament. As he ſaid to his Diſciples, <hi>Take, Eat, this is my Body.</hi> Not his Body Natural and Organical; our Saviour never promiſed to give us that to eat. That was the groſs conceit of carnal <hi>Capernaites:</hi> which our Saviour reproves and corrects (<hi>John</hi> 6.62, 63.) That Body muſt aſcend up into Heaven, there to continue; <hi>the fleſh profiteth nothing.</hi> Our Saviours <hi>words are ſpirit and life,</hi> and will quicken us, if underſtood ſpiritually. <hi>Aug.</hi> Leave off then all carnal Thoughts. <hi>Quid paras ventrem,</hi> &amp;c? Auguſt. <hi>Why preparest thou belly or teeth? Here is no Belly-chear, but food for the Soul: Believe, and thou hast eaten.</hi>
+               </p>
+               <p n="2">2. Our Saviour turned Water into Wine; that was a true Miracle, as all his Miracles were. Water
+<pb n="10" facs="tcp:62323:9"/>
+turned into Wine, for colour, taſte, and other qua<g ref="char:EOLhyphen"/>lities, true Wine: but this trick of <hi>Tranſubſtantia<g ref="char:EOLhyphen"/>tion</hi> is a meer juggle, that beguiles all the ſenſes, and would have us believe not only above, but againſt Reaſon; yea, againſt Scriptures, Fathers, and Nature it ſelf.</p>
+               <p n="3">3. In one part of the Sacrament, there is a plain Trope or Figure (<hi>Luke</hi> 22.) <hi>This Cup is the New Teſtament in my blood; Cup</hi> put for <hi>Wine in the Cup.</hi> And why there ſhould be a Figure in one part of the Sacrament, and not in the other; when they give us a reaſon, we ſhall give them an anſwer. But indeed we can never expect any reaſon from them, who reject Scriptures, Fathers, practice of Primitive Times, yea and the Inſtitution of Chriſt himſelf; to ſet up their own monſtrous Fancies, as the Coun<g ref="char:EOLhyphen"/>cil of <hi>Conſtance</hi> doth, (<hi>Seſſ.</hi> 13.) where it is ſaid, That although Chriſt adminiſtred the Sacrament in both kinds, and Primitive Chriſtians received it in both kinds; yet <hi>(Hoc non obſtante)</hi> notwith<g ref="char:EOLhyphen"/>ſtanding all this, they think fit to take away the Cup from the Laity, to avoid ſome perils and ſcan<g ref="char:EOLhyphen"/>dals; no man knows what, nor themſelves nei<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="11" facs="tcp:62323:9"/>
+               <head>CHAP. V. Obſervations concerning the FATHERS.</head>
+               <p>BEcauſe our Adverſaries make boaſt ſo much of Antiquity, and of all the Fathers on their ſide, (as <hi>Campian</hi> doth) and ſo with great ſwelling words of Vanity deceive the hearts of the ſimple: To all their vain Brags, I oppoſe that one Speech of the Noble King <hi>James,</hi> who ſaid, <hi>That all the Jeſuites in the World ſhall never be able to produce the unanimous conſent of the Fathers againſt us, or for themſelves, in any ſubſtantial point of Faith.</hi> And to <hi>Duraeus</hi> his <hi>Nullam refugio antiquitatem,</hi> I oppoſe that of the Learned <hi>Whitaker: Si vel unum potes proferre,</hi> &amp;c. Produce but one teſtimony of pure Antiquity for <hi>Tranſubſtantiation,</hi> and we will yield the cauſe.</p>
+               <p>The ſame famous Prince alſo at a Conference with ſome Learned men, ſhews out of <hi>Vincentius Li<g ref="char:EOLhyphen"/>rinenſis,</hi> and others, how the Fathers, in flouriſh of Exornation, and in heat of Oppoſition, may over<g ref="char:EOLhyphen"/>ſtrain. And <hi>Jeſuites</hi> themſelves confeſs, <hi>That ſome of the Fathers in heat of oppoſition against one Hereſie, have given occaſion to another.</hi> The ſhame<g ref="char:EOLhyphen"/>ful work they have made with the Fathers, as their own Books bear witneſs, is ſufficient to ſtop the mouths of all that are not paſt ſhame. There is not
+<pb n="12" facs="tcp:62323:10"/>
+one Father that is not of their own ſpurious brood, in whom they can find any ground for <hi>Tranſubſtan<g ref="char:EOLhyphen"/>tiation,</hi> but onely ſome words and phraſes miſtaken.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. Abſurdities that follow this opinion of Tranſubſtantiation.</head>
+               <p>THE falſhood of <hi>Tranſubſtantiation</hi> appears moſt clearly by the Abſurdities that follow it: As,</p>
+               <p>
+                  <hi>First,</hi> If this Opinion be true, then Chriſt eat his own Fleſh, and gave to his Diſciples his own dead Body before he was dead.</p>
+               <p>
+                  <hi>Secondly,</hi> If this Opinion be true, then there were two Chriſts; one giving, another given; one ſitting at Table, another in the hands or mouths of his Diſciples.</p>
+               <p>
+                  <hi>Thirdly,</hi> If this Opinion be true, then there are many Chriſts: for according to this Doctrine, the Body of Chriſt is in every part and particle of the Sacrament; as the Bread then is divided, Chriſt is multiplied.</p>
+               <p>
+                  <hi>Fourthly,</hi> If this Opinion be true, then the Apo<g ref="char:EOLhyphen"/>ſtle did not ſpeak true, to call it Bread after Con<g ref="char:EOLhyphen"/>ſecration (1 <hi>Cor.</hi> 10. and 11.)</p>
+               <p>
+                  <hi>Fifthly,</hi> If this Opinion be true, then the Body of Chriſt is in many places at one time; in a place, poſ<g ref="char:EOLhyphen"/>ſeſſing no place; whole Chriſt, in a crum of Bread
+<pb n="13" facs="tcp:62323:10"/>
+or Wafer: all contrary to the nature of a true Body, that poſſeſſeth as much place as is proportionable to its magnitude.</p>
+               <p>
+                  <hi>Sixthly,</hi> If this Opinion be true, then the Body of Chriſt may putrifie, breed Worms, be eaten of Mice, go into the Draught, <hi>&amp;c.</hi> moſt unworthy to be ſpoken of him, of whom it is ſaid, <hi>Thou wilt not ſuffer thine Holy One to ſee Corruption.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. The true Doctrine held by the Church of <hi>ENGLAND.</hi>
+               </head>
+               <p>THE ſame that is taught in the Twenty eighth Article.</p>
+               <p>
+                  <hi>First,</hi> To them which receive it worthily, the Bread which we break, is the Communion of the Body of Chriſt, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> It is given, taken and eaten in the Lords Supper, only after an heavenly and ſpiritual man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>
+                  <hi>Thirdly,</hi> The mean whereby the Body of Chriſt is received and eaten in the Lords Supper, is Faith.</p>
+               <p n="1">1. Againſt <hi>bare Signe and Figure,</hi> we teach, That the Body of Chriſt is given, taken and eaten in the Lords Supper.</p>
+               <p n="2">2. Againſt <hi>Tranſubſtantiation,</hi> we teach, That the Body of Chriſt is given, taken and eaten only after an heavenly and ſpiritual manner, by the mean
+<pb n="14" facs="tcp:62323:11"/>
+of Faith. There muſt be ſome great and wonder<g ref="char:EOLhyphen"/>ful change of the Elements, or elſe the common Bread made of Corn, could never become an in<g ref="char:EOLhyphen"/>ſtrument of heavenly grace and life, to feed, quick<g ref="char:EOLhyphen"/>en and ſtrengthen the Soul to life eternal.</p>
+               <p>And this change of the Elements cannot be in their ſubſtance.</p>
+               <p>
+                  <hi>First,</hi> Becauſe that would overthrow the nature of a true Body, as hath been ſaid.</p>
+               <p>
+                  <hi>Secondly,</hi> It overthrows the nature of a Sacra<g ref="char:EOLhyphen"/>ment.</p>
+               <p>But the change we acknowledge, is in their uſe, virtue, power, and operation; ſo that whereas be<g ref="char:EOLhyphen"/>fore Conſecration, the Elements were only inſtru<g ref="char:EOLhyphen"/>ments to feed and ſtrengthen the Body; after Con<g ref="char:EOLhyphen"/>ſecration, they are holy inſtruments to feed and nou<g ref="char:EOLhyphen"/>riſh the Soul to life eternal. For if the Woman that had the bloody iſſue (<hi>Matth.</hi> 9.) drew Virtue out of Chriſt to heal her diſeaſe, onely by touching the hem of his garment or cloaths in faith; Why ſhould it ſeem ſtrange, that in receiving thoſe holy Myſte<g ref="char:EOLhyphen"/>ries that Chriſt himſelf hath ordained, we may, and do receive Virtue from him, and are truly made partakers of his precious body and blood by faith? Diſtance of place cannot hinder the work of faith, (<hi>Eph.</hi> 3.17.) <hi>Chriſt dwells in our hearts by faith.</hi>
+               </p>
+               <p>When our Saviour ſayes, <hi>This is my Body,</hi> he in<g ref="char:EOLhyphen"/>tends not to ſhew what the Bread is, but what his Body is: Not that the Bread is turned into his Fleſh, but that his Body is Food for our Soul, as Bread is for our Body. It ſhews not any converſion
+<pb n="15" facs="tcp:62323:11"/>
+of one ſubſtance into another, but onely the relati<g ref="char:EOLhyphen"/>on that is between them. He which before called his Body Bread, now calls the Bread his Body; that by this change of names, we might underſtand and believe the change that is made by grace; and not ſo much heed the things we ſee, as mind the things we ſee not: <hi>Theod.</hi> We confeſs then, that the Body and Blood of Chriſt is given and received; we agree about the matter, all the queſtion is about the manner. They ſay it is corporally and carnally; we grant really, if by really ye underſtand truly and indeed; but yet that it is ſpiritual, heavenly, and di<g ref="char:EOLhyphen"/>vine. The Truth is preſent with the Signe; the Holy Spirit with the Sacrament, feeding our Souls with the truth of Chriſts Body and Blood: but the inviſible working of that divine Spirit herein is un<g ref="char:EOLhyphen"/>ſearchable; the natural man cannot perceive it, be<g ref="char:EOLhyphen"/>cauſe it is ſpiritual.</p>
+               <p>
+                  <hi>To conclude,</hi> Let us firmly believe what we can<g ref="char:EOLhyphen"/>not conceive; and reſt aſſured in this truth, That we receive in this Holy Sacrament the Body and Blood of Chriſt by Faith, though we cannot con<g ref="char:EOLhyphen"/>ceive it by Senſe and Reaſon.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
